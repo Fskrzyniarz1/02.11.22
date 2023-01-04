@@ -1,0 +1,54 @@
+body
+{
+    background-color: #f9f2ec;
+}
+
+#zdj1
+{
+    opacity: 0.1;
+}
+
+#zdj2
+{
+    opacity: 0.3;
+}
+
+#zdj3
+{
+    opacity: 0.5;
+}
+
+#zdj4
+{
+    opacity: 0.7;
+}
+
+#zdj5
+{
+    opacity: 0.9;
+}
+
+#zdj1:hover
+{
+    opacity: 1;
+}
+
+#zdj2:hover
+{
+    opacity: 1;
+}
+
+#zdj3:hover
+{
+    opacity: 1;
+}
+
+#zdj4:hover
+{
+    opacity: 1;
+}
+
+#zdj5:hover
+{
+    opacity: 1;
+}
